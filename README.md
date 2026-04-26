@@ -2,6 +2,12 @@
 
 A small macOS-only [pi](https://pi.dev) extension that shows Spotify playback status in the footer.
 
+## Demo
+
+[![Demo de pi-spotify-bar](https://raw.githubusercontent.com/Arian1192/pi-spotify-bar/main/assets/demo.png)](https://raw.githubusercontent.com/Arian1192/pi-spotify-bar/main/assets/demo.mp4)
+
+> Haz clic en la imagen para abrir el video completo.
+
 ## Features
 
 - Current track, artist, and album
