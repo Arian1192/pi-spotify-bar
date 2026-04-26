@@ -14,9 +14,10 @@
   },
   "keywords": ["pi-package", "pi-extension", "spotify", "footer", "macos", "applescript"],
   "main": "./index.ts",
-  "files": ["index.ts", "README.md", "package.json", "LICENSE"],
+  "files": ["index.ts", "README.md", "package.json", "LICENSE", "preview.png"],
   "pi": {
-    "extensions": ["./index.ts"]
+    "extensions": ["./index.ts"],
+    "image": "https://raw.githubusercontent.com/Arian1192/pi-spotify-bar/main/preview.png"
   },
   "peerDependencies": {
     "@mariozechner/pi-ai": "*",
